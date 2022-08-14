@@ -23,4 +23,12 @@ public:
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
+	UPROPERTY(EditAnywhere)
+	int32 randomInt = 99;
+
+	UPROPERTY(EditAnywhere)
+	bool isMoveable = true;
+
+	UPROPERTY(EditAnywhere)
+	float speed = 1.0f;
 };

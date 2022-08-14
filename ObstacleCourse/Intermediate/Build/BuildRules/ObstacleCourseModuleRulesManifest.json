@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\ugwul\\OneDrive\\Documents\\Unreal Projects\\Obstacle Course\\Obstacle-Course\\ObstacleCourse\\Source\\ObstacleCourse\\ObstacleCourse.Build.cs",
+		"C:\\Users\\ugwul\\OneDrive\\Documents\\Unreal Projects\\Obstacle Course\\Obstacle-Course\\ObstacleCourse\\Source\\ObstacleCourse.Target.cs",
+		"C:\\Users\\ugwul\\OneDrive\\Documents\\Unreal Projects\\Obstacle Course\\Obstacle-Course\\ObstacleCourse\\Source\\ObstacleCourseEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}

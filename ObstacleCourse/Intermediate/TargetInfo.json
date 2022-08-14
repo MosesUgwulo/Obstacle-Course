@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ObstacleCourse",
+			"Path": "C:\\Users\\ugwul\\OneDrive\\Documents\\Unreal Projects\\Obstacle Course\\Obstacle-Course\\ObstacleCourse\\Source\\ObstacleCourse.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ObstacleCourseEditor",
+			"Path": "C:\\Users\\ugwul\\OneDrive\\Documents\\Unreal Projects\\Obstacle Course\\Obstacle-Course\\ObstacleCourse\\Source\\ObstacleCourseEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

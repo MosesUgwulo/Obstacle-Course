@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ObstacleCourse-9887.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\ugwul\OneDrive\Documents\Unreal Projects\Obstacle Course\Obstacle-Course\ObstacleCourse\Intermediate\Build\Win64\ObstacleCourseEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\ugwul\OneDrive\Documents\Unreal Projects\Obstacle Course\Obstacle-Course\ObstacleCourse\Intermediate\Build\Win64\UnrealEditor\Development\ObstacleCourse\ObstacleCourse.cpp.obj"
+"C:\Users\ugwul\OneDrive\Documents\Unreal Projects\Obstacle Course\Obstacle-Course\ObstacleCourse\Intermediate\Build\Win64\UnrealEditor\Development\ObstacleCourse\MovingPlatform.cpp.obj"
+"C:\Users\ugwul\OneDrive\Documents\Unreal Projects\Obstacle Course\Obstacle-Course\ObstacleCourse\Intermediate\Build\Win64\UnrealEditor\Development\ObstacleCourse\MovingPlatform.gen.cpp.obj"
+"C:\Users\ugwul\OneDrive\Documents\Unreal Projects\Obstacle Course\Obstacle-Course\ObstacleCourse\Intermediate\Build\Win64\UnrealEditor\Development\ObstacleCourse\ObstacleCourse.init.gen.cpp.obj"
+"C:\Users\ugwul\OneDrive\Documents\Unreal Projects\Obstacle Course\Obstacle-Course\ObstacleCourse\Intermediate\Build\Win64\UnrealEditor\Development\ObstacleCourse\Default.rc2.res"
+/OUT:"C:\Users\ugwul\OneDrive\Documents\Unreal Projects\Obstacle Course\Obstacle-Course\ObstacleCourse\Intermediate\Build\Win64\UnrealEditor\Development\ObstacleCourse\UnrealEditor-ObstacleCourse-9887.lib"

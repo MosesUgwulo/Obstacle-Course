@@ -1,6 +1,12 @@
 {
 	"SourceFiles": [
 		"C:\\Users\\ugwul\\OneDrive\\Documents\\Unreal Projects\\Obstacle Course\\Obstacle-Course\\ObstacleCourse\\Source\\ObstacleCourse\\ObstacleCourse.Build.cs",
+		"C:\\Users\\ugwul\\OneDrive\\Documents\\Unreal Projects\\Obstacle Course\\Obstacle-Course\\ObstacleCourse\\Plugins\\Developer\\RiderLink\\Source\\RD\\RD.Build.cs",
+		"C:\\Users\\ugwul\\OneDrive\\Documents\\Unreal Projects\\Obstacle Course\\Obstacle-Course\\ObstacleCourse\\Plugins\\Developer\\RiderLink\\Source\\RiderBlueprint\\RiderBlueprint.Build.cs",
+		"C:\\Users\\ugwul\\OneDrive\\Documents\\Unreal Projects\\Obstacle Course\\Obstacle-Course\\ObstacleCourse\\Plugins\\Developer\\RiderLink\\Source\\RiderGameControl\\RiderGameControl.Build.cs",
+		"C:\\Users\\ugwul\\OneDrive\\Documents\\Unreal Projects\\Obstacle Course\\Obstacle-Course\\ObstacleCourse\\Plugins\\Developer\\RiderLink\\Source\\RiderLink\\RiderLink.Build.cs",
+		"C:\\Users\\ugwul\\OneDrive\\Documents\\Unreal Projects\\Obstacle Course\\Obstacle-Course\\ObstacleCourse\\Plugins\\Developer\\RiderLink\\Source\\RiderLogging\\RiderLogging.Build.cs",
+		"C:\\Users\\ugwul\\OneDrive\\Documents\\Unreal Projects\\Obstacle Course\\Obstacle-Course\\ObstacleCourse\\Plugins\\Developer\\RiderLink\\Source\\RiderShaderInfo\\RiderShaderInfo.Build.cs",
 		"C:\\Users\\ugwul\\OneDrive\\Documents\\Unreal Projects\\Obstacle Course\\Obstacle-Course\\ObstacleCourse\\Source\\ObstacleCourse.Target.cs",
 		"C:\\Users\\ugwul\\OneDrive\\Documents\\Unreal Projects\\Obstacle Course\\Obstacle-Course\\ObstacleCourse\\Source\\ObstacleCourseEditor.Target.cs"
 	],

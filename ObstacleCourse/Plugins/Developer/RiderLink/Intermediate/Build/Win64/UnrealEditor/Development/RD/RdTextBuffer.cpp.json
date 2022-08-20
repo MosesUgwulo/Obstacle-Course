@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ugwul\\onedrive\\documents\\unreal projects\\obstacle course\\obstacle-course\\obstaclecourse\\plugins\\developer\\riderlink\\source\\rd\\src\\rd_gen_cpp\\src\\rdtextbuffer.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\ugwul\\onedrive\\documents\\unreal projects\\obstacle course\\obstacle-course\\obstaclecourse\\plugins\\developer\\riderlink\\intermediate\\build\\win64\\unrealeditor\\development\\rd\\definitions.h",
+            "c:\\users\\ugwul\\onedrive\\documents\\unreal projects\\obstacle course\\obstacle-course\\obstaclecourse\\plugins\\developer\\riderlink\\source\\rd\\src\\rd_gen_cpp\\src\\rdtextbuffer.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

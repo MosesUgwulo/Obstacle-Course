@@ -16,6 +16,10 @@ void AMovingPlatform::BeginPlay()
 {
 	Super::BeginPlay();
 	
+	myX = myVector.X;
+	
+	myVector.Y = myY;
+	
 }
 
 // Called every frame

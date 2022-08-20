@@ -24,11 +24,11 @@ public:
 	virtual void Tick(float DeltaTime) override;
 
 	UPROPERTY(EditAnywhere)
-	int32 randomInt = 99;
+	FVector myVector = FVector(1, 2, 3);
 
 	UPROPERTY(EditAnywhere)
-	bool isMoveable = true;
+	float myX = 0;
 
 	UPROPERTY(EditAnywhere)
-	float speed = 1.0f;
+	float myY = 0;
 };

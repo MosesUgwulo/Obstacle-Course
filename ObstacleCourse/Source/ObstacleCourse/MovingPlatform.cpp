@@ -15,11 +15,7 @@ AMovingPlatform::AMovingPlatform()
 void AMovingPlatform::BeginPlay()
 {
 	Super::BeginPlay();
-	
-	myX = myVector.X;
-	
-	myVector.Y = myY;
-	
+
 }
 
 // Called every frame
@@ -27,5 +23,12 @@ void AMovingPlatform::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 
+	FVector localVector = myVector;
+
+	localVector.Z += 100;
+	
+	myVector.Y += 1;
+	
+	SetActorLocation(localVector);
 }
 

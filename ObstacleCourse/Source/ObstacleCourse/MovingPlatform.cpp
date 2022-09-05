@@ -17,6 +17,8 @@ void AMovingPlatform::BeginPlay()
 	Super::BeginPlay();
 	
 	startPosition = GetActorLocation();
+	
+	UE_LOG(LogTemp, Display, TEXT("Stuff"));
 }
 
 // Called every frame
@@ -32,6 +34,14 @@ void AMovingPlatform::Tick(float DeltaTime)
 	// set the location
 	SetActorLocation(currentLocation);
 
-	distanceMoved = FVector::Dist(startPosition, currentLocation);
+	float distanceMoved = FVector::Dist(startPosition, currentLocation);
+
+	if (distanceMoved > moveDistance)
+	{
+		FVector vectorDirection = platformVelocity.GetSafeNormal();
+		startPosition = startPosition + vectorDirection * moveDistance;
+		SetActorLocation(startPosition);
+		platformVelocity *= -1;
+	}
 }
 

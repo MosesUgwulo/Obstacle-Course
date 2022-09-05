@@ -28,6 +28,7 @@ public:
 	
 	FVector startPosition;
 
-	UPROPERTY(VisibleAnywhere, Category = "Movement")
-	float distanceMoved = -1;
+	UPROPERTY(EditAnywhere, Category = "Moving Platform")
+	float moveDistance = 100;
+	
 };
